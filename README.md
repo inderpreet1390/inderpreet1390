@@ -36,7 +36,3 @@ Here are some ideas to get you started:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Certificates**
-![AZ900](microsoft-certified-azure-fundamentals.png)
-![AI900](microsoft-certified-azure-ai-fundamentals.png)
