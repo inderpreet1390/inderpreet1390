@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Certificates**
+<img src="(microsoft-certified-azure-fundamentals.png" width="200">
 ![AZ900](microsoft-certified-azure-fundamentals.png)
 ![AI900](microsoft-certified-azure-ai-fundamentals.png)
